@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stock1",
+    "instrumentId": "123456",
+    "riskLevel": 1
+  },
+  {
+    "name": "Stock2",
+    "instrumentId": "123456",
+    "riskLevel": 2
+  },
+  {
+    "name": "Stock3",
+    "instrumentId": "789012",
+    "riskLevel": 3
+  }
+]
