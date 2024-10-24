@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Apple Inc.",
+    "instrumentId": "AAPL",
+    "lastPrice": 150.50,
+    "bidPrice": 150.00,
+    "askPrice": 151.00,
+    "highPrice": 152.00,
+    "lowPrice": 149.50,
+    "openPrice": 150.00,
+    "closePrice": 151.00,
+    "tradeVolume": 5000
+  },
+  {
+    "name": "Tesla Inc.",
+    "instrumentId": "TSLA",
+    "lastPrice": 700.00,
+    "bidPrice": 699.50,
+    "askPrice": 701.00,
+    "highPrice": 705.00,
+    "lowPrice": 695.00,
+    "openPrice": 698.00,
+    "closePrice": 702.00,
+    "tradeVolume": 12000
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "instrumentId": "NVDA",
+    "lastPrice": 220.00,
+    "bidPrice": 219.50,
+    "askPrice": 220.50,
+    "highPrice": 225.00,
+    "lowPrice": 218.00,
+    "openPrice": 220.00,
+    "closePrice": 224.00,
+    "tradeVolume": 8000
+  }
+]
