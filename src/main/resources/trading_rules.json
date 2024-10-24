@@ -1,0 +1,25 @@
+{
+  "safe": {
+    "buyDropPercent": 2,
+    "sellRisePercent": 5,
+    "stopLossDropPercent": 8,
+    "takeProfitRisePercent": 15,
+    "trailingStopLossPercent": 5,
+    "timeBasedExitDays": 30
+  },
+  "medium": {
+    "buyDropPercent": 5,
+    "sellRisePercent": 10,
+    "stopLossDropPercent": 10,
+    "takeProfitRisePercent": 20,
+    "trailingStopLossPercent": 7,
+    "timeBasedExitDays": 60
+  },
+  "risky": {
+    "buyDropPercent": 10,
+    "sellRisePercent": 20,
+    "stopLossDropPercent": 10,
+    "takeProfitRisePercent": 20,
+    "trailingStopLossPercent": 10
+  }
+}
