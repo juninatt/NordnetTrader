@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple Inc.",
+    "instrumentId": "AAPL",
+    "riskLevel": 1
+  },
+  {
+    "name": "Tesla Inc.",
+    "instrumentId": "TSLA",
+    "riskLevel": 2
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "instrumentId": "NVDA",
+    "riskLevel": 3
+  }
+]
